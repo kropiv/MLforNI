@@ -1,9 +1,9 @@
 # my ignore staff:
 *.pdf
-!BPIXhadrography.pdf#Except for this file
+!PixelDetector.pdf
+!BPIXhadrography.pdf
 !CMS_detector.pdf
 !NIdefinition.pdf
-!PixelDetector.pdf 
 *.png
 # end my ignore staff
 
