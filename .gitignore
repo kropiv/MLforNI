@@ -5,7 +5,10 @@
 !CMS_detector.pdf
 !NIdefinition.pdf
 *.png
+!PixelDetector.png
 !CMS_detector.png
+!BPIXhadrography.png
+!NIdefinition.png
 # end my ignore staff
 
 # Byte-compiled / optimized / DLL files
